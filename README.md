@@ -4,7 +4,7 @@ Neste projeto foi um desenvolvido um pequeno sistema para o gerenciamento de pes
 Neste curso foi desenvolvidos e abordados os seguintes tópicos:
 
 <ul> 
-  <li>etup inicial de projeto com o Spring Boot Initialzr</li>
+  <li>Setup inicial de projeto com o Spring Boot Initialzr</li>
   <li>Criação de modelo de dados para o mapeamento de entidades em bancos de dados</li>
   <li>Desenvolvimento de operações de gerenciamento de usuários (Cadastro, leitura, atualização e remoção de pessoas de um sistema).</li>
   <li>Relação de cada uma das operações acima com o padrão arquitetural REST, e a explicação de cada um dos conceitos REST envolvidos durante o desenvolvimento do projeto.</li>
